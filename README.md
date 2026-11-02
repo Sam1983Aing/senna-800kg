@@ -8,7 +8,7 @@ A cinematic scroll film around a McLaren Senna in a wind tunnel. You scroll and 
 
 **This is a first iteration, on purpose.** I asked Google Antigravity (Gemini 4 Argon, High) for 5 landing pages with no topic, only what I wanted from them. It picked the topics. I never asked for a car. It found this model in one of my older projects and built the page around it. I gave no feedback before this version, and I haven't polished it.
 
-So take it apart and remix it. That's why it's here. MIT for the code, see the credits below for the model.
+So take it apart and remix it. That's why it's here. MIT for the code. The model has its own license, see the credits below and [NOTICE](NOTICE).
 
 ## Try it
 
@@ -31,7 +31,7 @@ Three.js, TypeScript and Vite. About 5,700 lines of code, written by the agent.
 - **`src/audio/v8Audio.ts`** is the engine and turbine sound, built with the Web Audio API.
 - **`src/data/msoConfigs.ts`** holds the liveries and the copy for each act.
 
-The agent ran one session per page, took screenshots of its own work in headless Chrome and went another round when it scored under my bar. All 5 pages took about an hour.
+The agent ran one session per page, took screenshots of its own work in headless Chrome, scored them and went another round. All 5 pages took about an hour.
 
 ## Run it locally
 
@@ -44,7 +44,7 @@ Then open http://127.0.0.1:5405. `npm run build` writes the static site to `docs
 
 ## What changed from the original build
 
-Only what publishing needed: relative paths for GitHub Pages, and the credit and concept lines in the footer and the form. The design and the code are as the agent left them. The page title's em dash is Gemini's.
+Only what publishing needed: relative paths for GitHub Pages, and the credit and concept lines in the footer and the form. The design and the code are as the agent left them.
 
 ## Credits and legal
 

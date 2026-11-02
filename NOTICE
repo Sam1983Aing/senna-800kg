@@ -1,0 +1,8 @@
+This license covers the code in this repository only. It does not cover:
+
+- public/models/mclaren.glb, which is "McLaren Senna Free" by Black Snow
+  (https://sketchfab.com/BlackSnow02), licensed under CC BY 4.0
+  (https://creativecommons.org/licenses/by/4.0/). Compressed and re-exported.
+  Source: https://sketchfab.com/3d-models/mclaren-senna-free-ea3e43a6eb004853a87fe9c58422eb96
+- public/draco/, the Draco decoder by Google, licensed under Apache 2.0.
+- The McLaren and Senna names, which belong to their owners.
