@@ -1,0 +1,19 @@
+{
+  "name": "senna-800kg-aero-cinema",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5405 --host 127.0.0.1",
+    "build": "tsc && vite build",
+    "preview": "vite preview --port 5405 --host 127.0.0.1"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.0"
+  }
+}
