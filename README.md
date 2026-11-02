@@ -48,7 +48,7 @@ Only what publishing needed: relative paths for GitHub Pages, and the credit and
 
 ## Credits and legal
 
-- **3D model:** ["McLaren Senna Free"](https://sketchfab.com/3d-models/mclaren-senna-free-ea3e43a6eb004853a87fe9c58422eb96) by [Black Snow](https://sketchfab.com/BlackSnow02), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Compressed with Draco and re-exported. Keep this credit if you reuse the model.
+- **3D model:** ["McLaren Senna Free"](https://sketchfab.com/3d-models/mclaren-senna-free-ea3e43a6eb004853a87fe9c58422eb96) by [Black Snow](https://sketchfab.com/BlackSnow02), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Compressed with Draco and re-exported. Keep this credit if you reuse the model. Gemini didn't find it online for this page. It reused a copy from one of my older projects, which had been downloaded from [a public GitHub repo](https://github.com/Sunil56224972/Wretched-Lab-Nfs-Unbound-Virtual-Lab). That copy still had the Sketchfab credit inside the file, which is how I traced it back to Black Snow.
 - **Draco decoder:** Google, Apache 2.0.
 - **Not official.** This is an unofficial design concept, not affiliated with or endorsed by McLaren. McLaren and Senna are their owners' trademarks. Replace them before using this for anything commercial. Prices, chassis numbers and some specs on the page are made up by the agent, so don't quote them.
 - **The form sends nothing.** The name and email fields stay in your browser, and the confirmation is for show.
